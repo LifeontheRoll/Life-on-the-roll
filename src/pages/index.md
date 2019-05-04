@@ -5,7 +5,7 @@ image: /img/blog-index.jpg
 heading: The life and experiences with SMA
 subheading: Rolling along in life
 mainpitch:
-  title: Why Aaron?
+  title: Why Quinton?
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
