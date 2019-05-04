@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Life on the Roll
-image: /img/the-crippler.png
+image: /img/blog-index.jpg
 heading: The life and experiences with SMA
 subheading: Rolling along in life
 mainpitch:
